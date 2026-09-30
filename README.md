@@ -33,7 +33,7 @@ Tecnólogo Superior en Seguridad Informática y analista de Blue Team. Apasionad
     </picture>
   </a>
   <a href="https://tryhackme.com/p/DavidJoel" target="_blank" rel="noreferrer">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/DavidJoel.png" height="32" alt="TryHackMe" title="TryHackMe" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/DavidJoel.png" alt="TryHackMe" title="TryHackMe" />
   </a>
 </p>
 
