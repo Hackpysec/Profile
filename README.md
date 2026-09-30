@@ -1,24 +1,3 @@
-<h1 align="center">Hi 👋, I'm David Joel Guzmán Del Orbe</h1>
-<h3 align="center">SOC Analyst • Junior Penetration Tester • Cybersecurity Enthusiast</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dguzm4n" alt="dguzm4n" /></a> </p>
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/DavidJoel.png" alt="TryHackMe" alt="TryHackMe">
-
-
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is David Guzmán
 =====================================================================================================================================
 
@@ -46,3 +25,33 @@ Tecnólogo Superior en Seguridad Informática y analista de Blue Team. Apasionad
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/hackpysec"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hackpysec&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+
+
+
+
+
+
+
+<h1 align="center">Hi 👋, I'm David Joel Guzmán Del Orbe</h1>
+<h3 align="center">SOC Analyst • Junior Penetration Tester • Cybersecurity Enthusiast</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dguzm4n" alt="dguzm4n" /></a> </p>
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/DavidJoel.png" alt="TryHackMe" alt="TryHackMe">
+
+
+
