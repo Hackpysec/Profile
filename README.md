@@ -18,22 +18,22 @@ Tecnólogo Superior en Seguridad Informática y analista de Blue Team. Apasionad
 
 ### Socials
 <p align="left">
-  <a href="https://www.github.com/hackpysec" target="_blank" rel="noreferrer">
+  <a href="https://www.github.com/hackpysec" target="_blank" rel="noreferrer" style="display: inline-block; vertical-align: middle; margin-right: 8px;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" height="60" alt="GitHub" title="GitHub" />
     </picture>
   </a>
-  <a href="https://www.linkedin.com/in/dguzmandelorbe" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/dguzmandelorbe" target="_blank" rel="noreferrer" style="display: inline-block; vertical-align: middle; margin-right: 8px;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" height="60" alt="LinkedIn" title="LinkedIn" />
     </picture>
   </a>
-  <a href="https://tryhackme.com/p/DavidJoel" target="_blank" rel="noreferrer">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/DavidJoel.png" alt="TryHackMe" title="TryHackMe" />
+  <a href="https://tryhackme.com/p/DavidJoel" target="_blank" rel="noreferrer" style="display: inline-block; vertical-align: middle;">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/DavidJoel.png" height="60" alt="TryHackMe" title="TryHackMe" />
   </a>
 </p>
 
